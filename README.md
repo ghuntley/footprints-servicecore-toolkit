@@ -1,4 +1,5 @@
-## Footprints ServiceCore Toolkit
+## Footprints ServiceCore Toolkit [![Build status](https://ci.appveyor.com/api/projects/status/12gnnje4p39vmbqu?svg=true)](https://ci.appveyor.com/project/ghuntley/footprints-servicecore-toolkit)
+
 Footprints ServiceCore Toolkit is a cross platform portable class library that helps developers integrate with BMC FootPrints ServiceCore.
 
 ## Installation
