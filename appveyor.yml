@@ -22,4 +22,4 @@ after_test:
 artifacts:
   - path: FootprintsServiceCoreToolkit\bin\Release\FootprintsServiceCoreToolkit.dll
     name: FootprintsServiceCoreToolkit.dll
-  - path: '**\*.nupkg'
+  - path: '**\FootprintsServiceCoreToolkit.nupkg'
