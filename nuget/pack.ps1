@@ -9,4 +9,4 @@ $content = $content -replace '\$version\$',$versionStr
 
 $content | Out-File $root\nuget\FootprintsServiceCoreToolkit.compiled.nuspec
 
-& $root\NuGet\NuGet.exe pack $root\nuget\FootprintsServiceCoreToolkit.compiled.nuspec
+& $root\NuGet\NuGet.exe pack $root\nuget\FootprintsServiceCoreToolkit.compiled.nuspec -Symbols
